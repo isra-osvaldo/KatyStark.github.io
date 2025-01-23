@@ -10,3 +10,7 @@ body{
 .gris{
     background-color: #d7d0d0;
 }
+
+.progress {
+    height: 8px;
+  }

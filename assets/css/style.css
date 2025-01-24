@@ -14,3 +14,11 @@ body{
 .progress {
     height: 8px;
   }
+
+  .conocimientos{
+    height: 600px;
+  }
+
+  footer{
+    height: 60px;
+  }

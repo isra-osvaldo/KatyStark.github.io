@@ -3,6 +3,28 @@ body{
     background-color: #e7e1e1;
 }
 
+@font-face{
+  font-family: 'Roboto Light';
+  src: url("../fonts/Roboto-Light.ttf") format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Roboto Medium';
+  src: url("../fonts/Roboto-Medium.ttf") format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1, h3, h5{
+  font-family: "Roboto Medium";
+}
+
+p, span{
+  font-family: "Roboto Light";
+}
+
 .card {
     border: none;
   }
